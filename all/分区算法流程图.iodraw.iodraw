@@ -53,6 +53,9 @@
         <mxCell id="H4BmWwI8YftF_GTBVD9u-1" value="注：MOD是求余函数" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="195" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="H4BmWwI8YftF_GTBVD9u-3788" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H4BmWwI8YftF_GTBVD9u-3" target="H4BmWwI8YftF_GTBVD9u-3787">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-3" value="偶数模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="440" width="120" height="40" as="geometry" />
         </mxCell>
@@ -7843,7 +7846,7 @@
         <mxCell id="H4BmWwI8YftF_GTBVD9u-3786" value="$$W_T$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="900" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H4BmWwI8YftF_GTBVD9u-3787" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;所有阵元分区完毕&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="H4BmWwI8YftF_GTBVD9u-3787" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;高压缩率&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="472.5" y="500" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
