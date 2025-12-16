@@ -7888,6 +7888,9 @@
         <mxCell id="H4BmWwI8YftF_GTBVD9u-3790" value="环绕阵列中点&lt;div&gt;生成2x2中心分区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H4BmWwI8YftF_GTBVD9u-3804" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H4BmWwI8YftF_GTBVD9u-3801" target="H4BmWwI8YftF_GTBVD9u-1786">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-3801" value="沿已分区边界&lt;div&gt;向上下和左右扩展&lt;span style=&quot;background-color: initial;&quot;&gt;$$\frac{W_{ap}}{2} 和 \frac{L_{ap}}{2}$$&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="575" width="120" height="85" as="geometry" />
         </mxCell>
