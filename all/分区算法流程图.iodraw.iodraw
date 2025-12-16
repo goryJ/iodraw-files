@@ -2658,7 +2658,7 @@
         </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-1795" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H4BmWwI8YftF_GTBVD9u-1790">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="730" as="targetPoint" />
+            <mxPoint x="360" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-1796" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H4BmWwI8YftF_GTBVD9u-1795">
