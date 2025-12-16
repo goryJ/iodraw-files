@@ -2841,7 +2841,7 @@
           <mxGeometry x="10" y="50" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-1786" value="生成中心阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
