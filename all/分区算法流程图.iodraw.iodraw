@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;$$ \text{MOD}(W_T-W_{ap}, 2W_{ap}) &amp;gt; \text{MOD}(W_T, 2W_{ap})同时 \text{MOD}(W_T,2W_{ap})!=0$$&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;$$或\text{MOD}(W_T-W_{ap},2W_{ap})=0$$&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="290" width="280" height="80" as="geometry" />
+          <mxGeometry x="10" y="290" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="奇数模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="420" width="120" height="40" as="geometry" />
