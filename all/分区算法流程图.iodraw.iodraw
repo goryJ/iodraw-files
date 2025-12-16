@@ -2657,7 +2657,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-1790" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;到达边界&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="132.5" y="710" width="115" height="50" as="geometry" />
+          <mxGeometry x="132.5" y="720" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H4BmWwI8YftF_GTBVD9u-1797" value="奇数模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="450" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
