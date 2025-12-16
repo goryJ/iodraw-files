@@ -7844,7 +7844,7 @@
           <mxGeometry x="70" y="900" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-3787" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;所有阵元分区完毕&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="142.5" y="775" width="115" height="50" as="geometry" />
+          <mxGeometry x="472.5" y="500" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
