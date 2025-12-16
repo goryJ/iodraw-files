@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1830" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1518" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -7865,6 +7865,9 @@
             <mxPoint x="9" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H4BmWwI8YftF_GTBVD9u-3800" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="H4BmWwI8YftF_GTBVD9u-3787" target="H4BmWwI8YftF_GTBVD9u-3789">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-3787" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;启用&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;高压缩率&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="472.5" y="500" width="115" height="50" as="geometry" />
         </mxCell>
@@ -7881,6 +7884,9 @@
         </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-3790" value="环绕阵列中点&lt;div&gt;生成2x2中心分区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4BmWwI8YftF_GTBVD9u-3801" value="分配中心分区&lt;div&gt;并沿对角线分割&lt;/div&gt;&lt;div&gt;形成中心双三角分区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="505" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
