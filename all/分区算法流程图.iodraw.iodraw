@@ -2643,7 +2643,7 @@
           <mxGeometry x="-270" y="650" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-1790" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$ m_o ==0&amp;nbsp; 同时 m_e==0$$&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="245" y="250" width="230" height="70" as="geometry" />
+          <mxGeometry x="75" y="690" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
