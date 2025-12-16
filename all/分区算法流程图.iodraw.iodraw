@@ -48,8 +48,8 @@
         <mxCell id="H4BmWwI8YftF_GTBVD9u-0" value="$$注：W_T \ge L_T$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H4BmWwI8YftF_GTBVD9u-1" value="注：&lt;span style=&quot;font-size: 10px; text-wrap-mode: wrap;&quot;&gt;MOD是求余函数 $$\text{MOD}(19,15&lt;/span&gt;&lt;span style=&quot;font-size: 10px; text-wrap-mode: wrap; background-color: initial;&quot;&gt;)=4$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="475" y="400" width="240" height="30" as="geometry" />
+        <mxCell id="H4BmWwI8YftF_GTBVD9u-1" value="注：&lt;span style=&quot;font-size: 10px; text-wrap-mode: wrap;&quot;&gt;MOD是求余函数&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="535" y="400" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
