@@ -62,7 +62,7 @@
         <mxCell id="H4BmWwI8YftF_GTBVD9u-4" value="$$第一余数m_o=\text{MOD}(W_T-W_{ap},2W_{ap})$$ $$第二余数m_e=\text{MOD}(W_T,2W_{ap})$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="160" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="H4BmWwI8YftF_GTBVD9u-6" value="生成中心阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="H4BmWwI8YftF_GTBVD9u-6" value="分配中心阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-635" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -2840,7 +2840,7 @@
         <mxCell id="H4BmWwI8YftF_GTBVD9u-1784" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#000000;" vertex="1" parent="H4BmWwI8YftF_GTBVD9u-1748">
           <mxGeometry x="10" y="50" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="H4BmWwI8YftF_GTBVD9u-1786" value="绕已生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="H4BmWwI8YftF_GTBVD9u-1786" value="绕已分配阵元&lt;div&gt;生成一周新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
