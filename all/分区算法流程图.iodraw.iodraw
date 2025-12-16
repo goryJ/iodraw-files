@@ -7855,10 +7855,10 @@
           <mxGeometry x="472.5" y="500" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-3789" value="分配中心分区&lt;div&gt;并沿对角线分割&lt;/div&gt;&lt;div&gt;形成中心双三角分区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4BmWwI8YftF_GTBVD9u-3790" value="环绕阵列中点&lt;div&gt;生成2x2中心分区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="587.5" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
