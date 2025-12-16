@@ -62,7 +62,7 @@
         <mxCell id="H4BmWwI8YftF_GTBVD9u-6" value="生成中心阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4BmWwI8YftF_GTBVD9u-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="H4BmWwI8YftF_GTBVD9u-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345" y="660" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
