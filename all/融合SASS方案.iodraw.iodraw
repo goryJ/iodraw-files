@@ -10,6 +10,9 @@
         <mxCell id="z_s3v-sz36NV_vihnJ7L-2" value="Transformer&lt;br&gt;Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z_s3v-sz36NV_vihnJ7L-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z_s3v-sz36NV_vihnJ7L-4" target="z_s3v-sz36NV_vihnJ7L-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z_s3v-sz36NV_vihnJ7L-4" value="应变阵列&lt;div&gt;SASS Data&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="75" y="210" width="120" height="80" as="geometry" />
         </mxCell>
