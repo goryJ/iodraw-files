@@ -14,7 +14,10 @@
           <mxGeometry x="75" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z_s3v-sz36NV_vihnJ7L-8" value="&lt;div&gt;SASS&lt;/div&gt;增益G[0..N]&lt;div&gt;偏置A&lt;span style=&quot;background-color: initial;&quot;&gt;[0..N]&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z_s3v-sz36NV_vihnJ7L-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
